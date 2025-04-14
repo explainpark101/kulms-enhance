@@ -6,6 +6,9 @@
 https://www.tampermonkey.net/index.php?browser=chrome
 
 2. install userscript in this repository
+click this link 
+
+https://github.com/explainpark101/kulms-enhance/raw/refs/heads/main/KU%20LMS%20Enhanced%20Player-1.3.0.user.js
 
 ## ref.
 https://greasyfork.org/ko/scripts/436854-ssu-lms-enhanced-player
