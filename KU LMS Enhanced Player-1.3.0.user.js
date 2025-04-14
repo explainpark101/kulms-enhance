@@ -14,7 +14,7 @@
 // @require https://cdn.jsdelivr.net/npm/@violentmonkey/dom@1
 // @require https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js
 // @require https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js
-// @description Provides more feature for Video player of SSU LMS.
+// @description Provides more feature for Video player of KU LMS.
 // ==/UserScript==
 
 // Variable for features.
